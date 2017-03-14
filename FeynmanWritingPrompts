@@ -1,0 +1,5 @@
+Variables: a box where you can put something any time you want, store that thing and replace it with something else;
+Strings: this can be a number, a word or anything else that is surrounded by '' or "";
+Functions(arguments, return): a function is a block of code that does something; it can take arguments and returns something(number, string or bool);
+If statements: if statement executes something if a condition is true or false;
+Boolean values(true, false): there are only 2 options to chose from:true or false.
